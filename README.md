@@ -1,50 +1,33 @@
-# 👩‍💻 Luma Andrade - Portfólio de Projetos
+# 👋 Olá! Eu sou a Luma Andrade
 
-Bem-vinda(o) ao meu portfólio! Aqui você encontra alguns dos projetos que desenvolvi com foco em Python, tecnologia e criatividade.
+Bem-vindo(a) ao meu portfólio! Aqui compartilho projetos desenvolvidos com foco em **Python**, **Power BI**, **acessibilidade digital** e **organização emocional**.
 
 ---
 
 ## 🌟 Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e apaixonada por soluções que ajudem pessoas — especialmente com foco em acessibilidade, organização emocional e experiências digitais.
+Sou formada em Análise e Desenvolvimento de Sistemas e apaixonada por soluções criativas que unem tecnologia, empatia e experiência do usuário. Gosto de explorar ferramentas que tornem a informação mais acessível, compreensível e útil para as pessoas.
 
 ---
 
-## 🚀 Projetos
+## 💡 Projetos
 
-### 💬 Assistente Pessoal com Python
+### 🐍 Projetos com Python  
+Soluções interativas, bots e automações.  
+🔗 [Ver projetos em Python](https://github.com/lumandrade/projetos-python-luma)
 
-Um assistente com interface em Tkinter capaz de ouvir comandos de voz e responder com ações, frases ou sugestões.
-
-➡️ [Ver projeto](#) *(adicione o link quando subir)*
-📌 Tecnologias: Python, Tkinter, SpeechRecognition, Pyttsx3
-
----
-
-### ✂️ Chatbot para Barbearia
-
-Chatbot que automatiza o atendimento de uma barbearia, ajudando a marcar horários, tirar dúvidas e apresentar serviços.
-
-➡️ [Ver projeto](#)
-📌 Tecnologias: Python, lógica de fluxo de conversa
+### 📊 Dashboards com Power BI  
+Análises visuais com insights estratégicos e foco em tomada de decisão.  
+🔗 [Ver dashboards Power BI](https://github.com/lumandrade/portfolio-powerbi)
 
 ---
 
-### 🌈 Organizador Emocional
+## 📬 Contato
 
-Aplicativo que ajuda a pessoa a registrar seu humor e receber sugestões personalizadas. Também possui versão web com Flask.
-
-➡️ [Ver projeto](#)
-📌 Tecnologias: Python, Tkinter, Flask, HTML
-
----
-
-## 📫 Contato
-
-* Email: [andradeluma12@gmail.com](mailto:andradeluma12@gmail.com)
-* LinkedIn: [linkedin.com/in/lumawww-andrade-ferreira-2b973a245](https://www.linkedin.com/in/lumawww-andrade-ferreira-2b973a245)
-* GitHub: [github.com/lumandrade](https://github.com/lumandrade)
+📧 andradeluma12@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/lumaarw)  
+💻 [GitHub](https://github.com/lumandrade)
 
 ---
 
-💛 Obrigada por visitar meu portfólio! Estou sempre criando algo novo — volte depois pra ver as novidades!
+✨ Obrigada por visitar meu portfólio! Estou sempre criando algo novo 💡🚀
