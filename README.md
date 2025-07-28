@@ -18,7 +18,7 @@ Soluções interativas, bots e automações.
 
 ### 📊 Dashboards com Power BI  
 Análises visuais com insights estratégicos e foco em tomada de decisão.  
-🔗 [Ver dashboards Power BI](https://github.com/lumandrade/portfolio-powerbi)
+🔗 [Ver dashboards Power BI](https://github.com/lumandrade/potfolio-PowerBI)
 
 ---
 
