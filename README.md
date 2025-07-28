@@ -1,12 +1,11 @@
 # 👋 Olá! Eu sou a Luma Andrade
 
-Bem-vindo(a) ao meu portfólio! Aqui compartilho projetos desenvolvidos com foco em **Python**, **Power BI**, **acessibilidade digital** e **organização emocional**.
+Bem-vindo(a) ao meu portfólio! Aqui compartilho projetos desenvolvidos com foco em **Python** e **Power BI**.
 
 ---
 
 ## 🌟 Sobre mim
-
-Sou formada em Análise e Desenvolvimento de Sistemas e apaixonada por soluções criativas que unem tecnologia, empatia e experiência do usuário. Gosto de explorar ferramentas que tornem a informação mais acessível, compreensível e útil para as pessoas.
+Formada em Análise e Desenvolvimento de Sistemas, gosto de criar soluções práticas com foco em organização, automação e dados. Busco sempre aplicar tecnologia de forma objetiva e funcional.
 
 ---
 
