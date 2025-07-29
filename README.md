@@ -24,7 +24,7 @@ Análises visuais com insights estratégicos e foco em tomada de decisão.
 ## 📬 Contato
 
 📧 andradeluma12@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lumaarw)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lumawww-andrade-ferreira-2b973a245)  
 💻 [GitHub](https://github.com/lumandrade)
 
 ---
