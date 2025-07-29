@@ -13,7 +13,7 @@ Formada em Análise e Desenvolvimento de Sistemas, gosto de criar soluções pr�
 
 ### 🐍 Projetos com Python  
 Soluções interativas, bots e automações.  
-🔗 [Ver projetos em Python](https://github.com/lumandrade/projetos-python-luma)
+🔗 [Ver projetos em Python](https://github.com/lumandrade/portfolio-python/tree/main)
 
 ### 📊 Dashboards com Power BI  
 Análises visuais com insights estratégicos e foco em tomada de decisão.  
